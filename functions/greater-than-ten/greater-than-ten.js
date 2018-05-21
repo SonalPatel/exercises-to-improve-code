@@ -8,6 +8,7 @@ const checkValue = x => {
   }
 };
 module.exports = checkValue;
-// export default add;
+// export default checkValue;
 
-//cleaner way
+//cleaner way to write my function
+//const checkValue = x => x > 10;

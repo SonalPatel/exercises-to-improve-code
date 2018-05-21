@@ -1,4 +1,4 @@
-// import add from './add';
+// import add from './add'; (use this when using react)
 const add = require("./add");
 
 describe("add.js", () => {

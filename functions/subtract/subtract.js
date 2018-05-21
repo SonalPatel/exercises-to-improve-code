@@ -1,2 +1,4 @@
 const subtract = (num1, num2) => num1 - num2;
-alert(subtract(10, 2));
+//alert(subtract(10, 2));
+
+module.exports = subtract;

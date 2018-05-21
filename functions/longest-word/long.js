@@ -6,4 +6,6 @@ function findlongestword(name1, name2) {
     return name2;
   }
 }
-alert(findlongestword("pete", "sonal"));
+//alert(findlongestword("pete", "sonal"));
+
+module.exports = long;
