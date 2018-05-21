@@ -1,9 +1,9 @@
 const checkValue = x => {
   if (x > 10) {
-    return "15 is greater than 10";
+    return true;
     //executes if true
   } else {
-    return "ooops";
+    return false;
     //executes if false
   }
 };

@@ -11,13 +11,13 @@ if (s === p) {
 */
 
 //now re-create this as a reusable function
-const s = "123";
-const p = "321";
-function reUsable(s, p) {
-  if (s === p) {
+const string1 = "123";
+const string2 = "321";
+function isTheSameWord(string1, string2) {
+  if (string1 === string2) {
     return true;
   } else {
     return false;
   }
 }
-alert(reUsable(p));
+alert(isTheSameWord(123));
