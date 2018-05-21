@@ -1,0 +1,23 @@
+{
+  "name": "exercises-to-improve-code",
+  "version": "1.0.0",
+  "description": "\"# exercises-to-improve-code\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonalPatel/exercises-to-improve-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonalPatel/exercises-to-improve-code/issues"
+  },
+  "homepage": "https://github.com/SonalPatel/exercises-to-improve-code#readme",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
