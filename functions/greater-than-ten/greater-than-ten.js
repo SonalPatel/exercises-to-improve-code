@@ -7,5 +7,7 @@ const checkValue = x => {
     //executes if false
   }
 };
-//console.log(checkValue(15));
-alert(checkValue(15));
+module.exports = checkValue;
+// export default add;
+
+//cleaner way

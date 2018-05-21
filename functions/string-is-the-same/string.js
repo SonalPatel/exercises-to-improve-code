@@ -19,3 +19,5 @@ function isTheSameWord(string1, string2) {
   }
 }
 alert(isTheSameWord("word1", "word2"));
+
+const isTheSameWord = (string1, string2) => string1 === string2;
