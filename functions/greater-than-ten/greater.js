@@ -1,4 +1,4 @@
-checkValue = x => {
+const checkValue = x => {
   if (x > 10) {
     return "15 is greater than 10";
     //executes if true
