@@ -7,5 +7,5 @@ const checkValue = x => {
     //executes if false
   }
 };
-console.log(checkValue(15));
+//console.log(checkValue(15));
 alert(checkValue(15));
