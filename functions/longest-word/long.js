@@ -8,4 +8,4 @@ function findlongestword(name1, name2) {
 }
 //alert(findlongestword("pete", "sonal"));
 
-module.exports = long;
+module.exports = findlongestword;

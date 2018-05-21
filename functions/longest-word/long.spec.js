@@ -1,8 +1,8 @@
-const long = require("./long");
+const long = require("./long.js");
 
 describe("findlongestword", () => {
   it("should compare the length of two strings and return the longest one", () => {
-    const result = findlongestword("sonal", "pete");
-    expect(result).toBe(sonal);
+    const result = findlongestword("lorem", "loremipsum");
+    expect(result).toBe("loremipsum");
   });
 });

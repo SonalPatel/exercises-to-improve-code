@@ -8,7 +8,7 @@ function isTheSameWord(string1, string2) {
   }
 }
 //alert(isTheSameWord("word1", "word2"));
-module.exports = string - is - same;
+module.exports = isTheSameWord;
 
 //this is a cleaner way to write the if else function
 //const isTheSameWord = (string1, string2) => string1 === string2;
