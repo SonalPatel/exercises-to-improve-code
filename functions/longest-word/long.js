@@ -1,6 +1,4 @@
 //given two strings return the one with the longest word
-const name1 = "long";
-const name2 = "longer";
 function findlongestword(name1, name2) {
   if (name2.length > name1.length) {
     return name1;
@@ -8,4 +6,4 @@ function findlongestword(name1, name2) {
     return name2;
   }
 }
-alert(findlongestword());
+alert(findlongestword("pete", "sonal"));
