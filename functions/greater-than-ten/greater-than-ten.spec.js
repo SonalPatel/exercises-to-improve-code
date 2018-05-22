@@ -4,7 +4,7 @@ describe("greater-than-ten", () => {
     const result = checkValue(55);
     expect(result).toBe(true);
   });
-  it("should return true if greater 10", () => {
+  it("should return false if less then 10", () => {
     const result = checkValue(8);
     expect(result).toBe(false);
   });
