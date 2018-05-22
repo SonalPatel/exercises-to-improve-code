@@ -7,5 +7,8 @@ const checkValue = x => {
     //executes if false
   }
 };
-//console.log(checkValue(15));
-alert(checkValue(15));
+module.exports = checkValue;
+// export default checkValue;
+
+//cleaner way to write my function
+//const checkValue = x => x > 10;
